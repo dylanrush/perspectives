@@ -1,0 +1,5 @@
+If you want to build this yourself, you'll have to:
+1. Jailbreak a set of kindles
+2. Install USBNetwork to control them through SSH. Enable SSH over WiFi and upload RSA keys.
+3. Install Pillow, picamera, numpy on a raspberry pi.
+4. Run python3 perspectives_controller.py
